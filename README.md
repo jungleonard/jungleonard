@@ -10,7 +10,6 @@ Je combine la rigueur mathématique et la passion pour le développement informa
 ### 🏛️ Formation & Focus Académique
 *   **Mathématiques :** Algèbre linéaire, Analyse réelle, Probabilités & Statistiques, Optimisation.
 *   **Informatique :** Algorithmique complexe, Structures de données, Programmation Système (C), POO.
-*   **Projets Universitaires :** [Citez un projet marquant, ex: Simulateur de trajectoire en Python / Moteur de recherche en C].
 
 ---
 
