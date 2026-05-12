@@ -28,22 +28,12 @@ Je combine la rigueur mathématique et la passion pour le développement informa
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
 
-### 📊 Mes Statistiques GitHub
-
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[VOTRE_PSEUDO]&show_icons=true&theme=tokyonight&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[VOTRE_PSEUDO]&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
 ### 📫 Me contacter
-*   💼 **LinkedIn**: [Lien vers votre profil]
-*   📧 **Email**: [Votre adresse mail universitaire ou pro]
+*   💼 **LinkedIn**: 
+*   📧 **Email**: leonard.jung.1@etu.sorbonne-universite.fr
 
 ---
-<p align="center">
-  <i>"Mathematics is the language in which God has written the universe." — Galileo</i>
-</p>
