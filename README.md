@@ -1,4 +1,4 @@
-# Salut ! Moi c'est [Votre Prénom] 👋
+# Salut ! Moi c'est Léonard 👋
 
 ### 🎓 Étudiant en L3 Double Licence Mathématiques & Informatique
 **Sorbonne Université (Paris VI)**
