@@ -1,19 +1,19 @@
-# Salut ! Moi c'est Léonard 👋
+# Salut ! Moi c'est Léonard 
 
-### 🎓 Étudiant en L3 Double Licence Mathématiques & Informatique
+### Étudiant en L3 Double Licence Mathématiques & Informatique
 **Sorbonne Université (Paris VI)**
 
 Je combine la rigueur mathématique et la passion pour le développement informatique. Je m'intéresse particulièrement à [l'Intelligence Artificielle / l'Algorithmique / la Cybersécurité / le Développement Software].
 
 ---
 
-### 🏛️ Formation & Focus Académique
+### Formation & Focus Académique
 *   **Mathématiques :** Algèbre linéaire, Analyse réelle, Probabilités & Statistiques, Optimisation.
 *   **Informatique :** Algorithmique complexe, Structures de données, Programmation Système (C), POO.
 
 ---
 
-### 🛠️ Mon Stack Technique
+### Mon Stack Technique
 
 **Langages de prédilection**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -31,8 +31,8 @@ Je combine la rigueur mathématique et la passion pour le développement informa
 
 ---
 
-### 📫 Me contacter
-*   💼 **LinkedIn**: 
-*   📧 **Email**: leonard.jung.1@etu.sorbonne-universite.fr
+### Me contacter
+*   **LinkedIn**: 
+*   **Email**: leonard.jung.1@etu.sorbonne-universite.fr
 
 ---
