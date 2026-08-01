@@ -3,7 +3,7 @@
 ### Étudiant en L3 Double Licence Mathématiques & Informatique
 **Sorbonne Université (Paris VI)**
 
-Je combine la rigueur mathématique et la passion pour le développement informatique. Je m'intéresse particulièrement à [l'Intelligence Artificielle / l'Algorithmique / la Cybersécurité / le Développement Software].
+Je combine la rigueur mathématique et la passion pour le développement informatique. Je m'intéresse particulièrement à l'Intelligence Artificielle et l'Algorithmique.
 
 ---
 
